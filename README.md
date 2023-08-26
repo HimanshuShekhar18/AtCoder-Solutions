@@ -1,1 +1,1 @@
-Competitive Programming Submissions+Solutions
+AtCoder Submissions+Solutions
